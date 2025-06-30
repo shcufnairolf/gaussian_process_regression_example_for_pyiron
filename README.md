@@ -4,12 +4,18 @@ This repository contains a Jupyter notebook `workflow.ipynb` which demonstrated 
 
 ## Contributers:
 Florian Fuchs (Fraunhofer ENAS, Chemnitz)
+
 Philipp Schulze (TU Berlin, Berlin)
+
 Fabian Teichert (Fraunhofer ENAS, Chemnitz)
 
 ## Requirements:
-pyiron
-pyiron_base
-sklearn
-numpy
-optuna
+`pyiron`
+
+`pyiron_base`
+
+`sklearn`
+
+`numpy`
+
+`optuna`
