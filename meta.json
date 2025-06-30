@@ -1,0 +1,15 @@
+{
+  "workflow_environment": "ipython",
+  "title": "DiMoGraph Gaussian Process Regression",
+  "authors": ["Florian Fuchs <florian.fuchs@enas.fraunhofer.de>",
+              "Philipp Schulze <pschulze@math.tu-berlin.de>",
+              "Fabian Teichert <fabian.teichert@enas.fraunhofer.de>"],
+  "description": "Demonstrate performing Gaussian Process Regresssion of some test data with pyiron.",
+  "release": "0.1.0",
+  "keywords": [
+    "pyiron",
+    "skikit-learn",
+    "Gaussian process regression"
+  ],
+  "logo": "logo.png"
+}
